@@ -1,8 +1,12 @@
 ---
 layout: poem
 title: Dreams
-author: Langston Hughes
+author: 
+- Langston Hughes
+- Claude Mckay
 source: Project Guttenberg
+date: today
+contributor: Elena Pierazzo
 ---
 
 - Hold fast to dreams
