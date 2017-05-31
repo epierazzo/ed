@@ -5,7 +5,7 @@ author:
 - Langston Hughes
 - Claude Mckay
 source: Project Guttenberg
-date: today
+date: 2017
 contributor: Elena Pierazzo
 ---
 
