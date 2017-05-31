@@ -1,7 +1,7 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
+title:               Edition of lo Stufaiuolo
 tagline:             'A Jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://elotroalex.github.io'
@@ -9,9 +9,9 @@ baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Elena Pierazzo
+  url:               https://twitter.com/epierazzo
+  email:             pierazzo@gmail.com
 
 # Permalinks
 
