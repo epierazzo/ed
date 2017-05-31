@@ -7,7 +7,7 @@ author:
 source: Project Guttenberg
 ---
 
-here you write stuff
+here you write [stuff](http://stuff.info)
 
 - Hold fast to dreams[^fn1]
 - For if dreams die
