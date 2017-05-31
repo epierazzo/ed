@@ -7,7 +7,7 @@ author:
 source: Project Guttenberg
 ---
 
-here you write [stuff](http://stuff.info)
+here you write [stuff]({{site.baseurl}}/text/o-captain/)
 
 - Hold fast to dreams[^fn1]
 - For if dreams die
