@@ -8,7 +8,7 @@ ATTO PRIMO
 
 PRIMA SCENA
 
-(*Cesare e Madalena)
+(*Cesare e Madalena*)
 
 Cesare: Tu sai la compagnia che io ti ho fatta tanti e tanti anni, che oggimai possian dire d’esser vecchi; ora tu vedi come io sono aflitto e non posso dire perché.
 
