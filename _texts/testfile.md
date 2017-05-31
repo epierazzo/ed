@@ -4,9 +4,11 @@ title: Lo Stufaiuolo
 author: Anton Francesco Doni 
 source: harvard library
 ---
-ATTO PRIMO
 
-PRIMA SCENA
+## ATTO PRIMO
+
+---
+## PRIMA SCENA
 
 (*Cesare e Madalena*)
 
