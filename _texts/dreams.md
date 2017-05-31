@@ -5,8 +5,6 @@ author:
 - Langston Hughes
 - Claude Mckay
 source: Project Guttenberg
-date: 2017
-contributor: Elena Pierazzo
 ---
 
 - Hold fast to dreams
