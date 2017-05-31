@@ -25,5 +25,6 @@ here you write stuff
 ## Footnotes
 
 [^fn1]: this is first note
+
 [^fn2]: this is the second
 
