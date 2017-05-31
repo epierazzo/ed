@@ -20,7 +20,9 @@ here you write stuff
 
 <p class="citation">{{ page.author }}</p>
 
-##Footnotes
+---
+
+## Footnotes
 
 [^fn1]: this is first note
 [^fn2]: this is the second
